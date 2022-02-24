@@ -62,7 +62,7 @@ pThis is  a website that shows my portfolio/resume.It contains all my background
  
  Slack Profile - [JOY MAROCHO](https://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXhttps://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)WCHMCNP?cdn_fallback=1)W)
  
- Linked - [JO](https://www.linkedin.com/in/joy-marocho-553b3b12a/)
+ Linked - [JOy MAROCHO](https://www.linkedin.com/in/joy-marocho-553b3b12a/)
  
  [Go Back to the top](#portfolio)
 @here Sample README
